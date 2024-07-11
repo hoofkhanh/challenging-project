@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+    
+    .image-td {
+        width: 50px;
+        height: 50px;
+
+        img {
+            width: 100%;
+            height: 100%;
+            border-radius: 25px;
+        }
+    }
+
+    th{
+        text-align: left;
+    }
+
+    tbody {
+        img {
+            width: 50px;
+            height: 50px;
+            transition: transform 0.15s;
+
+            &:hover {
+                transform: scaleY(1.1);
+            }
+        }
+    }
+}
+
+h1 {
+    text-align: center;
+}
+

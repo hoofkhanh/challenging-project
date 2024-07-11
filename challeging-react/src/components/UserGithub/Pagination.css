@@ -1,0 +1,43 @@
+
+nav {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    ul {
+        display: flex;
+    
+        li {
+            padding: 10px;
+            list-style-type: none;
+            border: 1px black solid;
+            transition: transform 0.15s;
+            cursor: pointer;
+            
+            &:hover {
+                transform: scaleY(1.1);
+            }
+        }
+
+        a {
+            display: flex;
+            align-items: center;
+            margin-left: 10px;
+            margin-right: 10px;
+            text-decoration: none;
+            color: red;
+            transition: transform 0.15s;
+
+            &:hover {
+                transform: scale(1.1);
+            }
+        }
+    }
+
+   
+
+    .page-item-click {
+        background-color: blue;
+        color: white;
+    }
+}
