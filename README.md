@@ -18,7 +18,7 @@
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/a51585ce-1c08-456e-8380-3a5b379332bd)
 *****************************************************************************************************************************************************
 
-- 4. Cấu trúc của WEB backend (Structure of WEB backend).
+- 4. <b>Cấu trúc của WEB backend (Structure of WEB backend)<b/>. <br>
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/d61d6dc1-1f6f-489b-bcc3-8ab87185551d)
 *****************************************************************************************************************************************************
 - Ở file config.js trong challenging-express có phần config của firebase. Có thể collection là phone_numbers và favorite_github_users (Bạn có thể thay thế bằng config của bạn ổ biến firebaseConfig)
