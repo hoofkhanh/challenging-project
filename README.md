@@ -13,7 +13,7 @@
 *****************************************************************************************************************************************************
 
 *****************************************************************************************************************************************************
-- 3. Đây là trang khi nhấn vào hình ảnh hồ sơ của người đang sử dụng bao gồm số điện thoại ở đầu trang và những người dùng đã thêm vào yêu thích và cũng có thể bỏ yêu thích hoặc yểu thích lại (nếu đã bỏ yêu thích).
+- **3. Đây là trang khi nhấn vào hình ảnh hồ sơ của người đang sử dụng bao gồm số điện thoại ở đầu trang và những người dùng đã thêm vào yêu thích và cũng có thể bỏ yêu thích hoặc yểu thích lại (nếu đã bỏ yêu thích).**
 - 3. This is the page when clicking on the profile image of the current user including the phone number at the top of the page and users who have added to favorites and can also un-favorite or re-favorite (if unfavorited). prefer).
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/a51585ce-1c08-456e-8380-3a5b379332bd)
 *****************************************************************************************************************************************************
