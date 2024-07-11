@@ -1,4 +1,4 @@
-![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/cf1bc171-64ad-46af-becf-19692e39deba)![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/3a448138-f546-4237-97a4-1ae7c3dcd49e)# Đây là hỉnh ảnh trang web của em (This is my image of web)
+# Đây là hỉnh ảnh trang web của em (This is my image of web)
 
 *****************************************************************************************************************************************************
 # 1. Đây là trang để nhập số điện thoại và access code.
