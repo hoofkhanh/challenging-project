@@ -43,11 +43,13 @@
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/52cfa538-2a77-40bd-a063-8517bf52d53e)
 
 # 6.Cách sử dụng Web backend
+- Hãy download phần challenging-express về máy và open trong vscode, hãy vào terminal và gõ 'npm i' để install tất cả thư viện về
 - Đầu tiên hãy đọc phần 3 Cấu trúc Web backend để biết phần nào nên thay thế để run được project, tiếp theo mở cmd hoặc git bash truy cập vào project challenging-express, sau đó gõ chữ "nodemon index.js" và sau đó nếu cmd hiển thị chữ Up thì có nghĩa là project đã được run ở port 4000 thành công <br/>
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/875fa055-d895-493c-b883-67ca4a3e2d7b)
 *****************************************************************************************************************************************************
 
 # 7.Cách sử dụng Web frontend
+- Hãy download phần challenging-react về máy và open trong vscode, hãy vào terminal và gõ 'npm i' để install tất cả thư viện về
 - Hãy đọc phần 5 để biết cấu trúc rõ hơn và sau đó hãy mở terminal trong vscode và gõ "npm run dev" sau đó project sẽ được run ở port 5173, giao diện đầu tiên chính là phần 1 (trang nhập số điện thoại và access code)
 - ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/6e77fa4a-2b4b-4f9b-b9ff-a66a2dc86bff)
 
