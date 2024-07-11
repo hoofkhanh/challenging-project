@@ -37,7 +37,7 @@
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/258f9871-a665-4492-931b-79ace97f86dd)
 *****************************************************************************************************************************************************
 
-- **5. Cấu trúc của WEB frontend (Structure of WEB frontend).**
+- **5. Cấu trúc của WEB frontend (Structure of WEB frontend).** <br/>
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/330205f9-a264-4c4d-b894-699ce38b7653)
 *****************************************************************************************************************************************************
 - Ở folder components là sẽ chứa các folder component nhỏ như trang PhoneNumberForm và css của nó dùng để nhập số điện thoại và access token, folder UserGithub trang UserGithub dùng để dùng api user của github để search theo login per_page là số lượng hiển thị và trang của api sẽ hiển thị và Pagination có nghĩa là phân trang. foldler FavoriteUser là chứa các user đã nhấn yêu thích
