@@ -1,7 +1,7 @@
 # Đây là hỉnh ảnh trang web của em (This is my image of web)
 
 *****************************************************************************************************************************************************
-# 1. Đây là trang để nhập số điện thoại và access code.
+# 1. <small>Đây là trang để nhập số điện thoại và access code</small>.
 # 1. This is the page to enter your phone number and access code.
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/5ee9d1ee-ff1b-4a18-b318-e52170bffde2)
 *****************************************************************************************************************************************************
