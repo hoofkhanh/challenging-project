@@ -43,7 +43,7 @@
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/52cfa538-2a77-40bd-a063-8517bf52d53e)
 
 # 6.Cách sử dụng Web backend
-- Đầu tiên hãy đọc phần 3 Cấu trúc Web backend để biết phần nào nên thay thế để run được project, tiếp theo mở cmd hoặc git bash truy cập vào project challenging-express, sau đó gõ chữ "nodemon index.js" và sau đó nếu cmd hiển thị chữ Up thì có nghãi là project đã được run ở port 4000 thành công
+- Đầu tiên hãy đọc phần 3 Cấu trúc Web backend để biết phần nào nên thay thế để run được project, tiếp theo mở cmd hoặc git bash truy cập vào project challenging-express, sau đó gõ chữ "nodemon index.js" và sau đó nếu cmd hiển thị chữ Up thì có nghĩa là project đã được run ở port 4000 thành công <br/>
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/875fa055-d895-493c-b883-67ca4a3e2d7b)
 *****************************************************************************************************************************************************
 
