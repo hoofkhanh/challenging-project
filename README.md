@@ -31,6 +31,8 @@
 *****************************************************************************************************************************************************
  
 - Ở file PhoneNumberService.js có một function là initRequest và có biến options chính là config api dùng để sms để gửi tin nhắn của https://www.infobip.com (chỉ có thể gửi tin nhắn cho đến số điện thoại người dùng đăng kí api và một vài người giới hạn). Hãy vào đăng kí nếu account nếu bạn muốn test thử
+![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/258f9871-a665-4492-931b-79ace97f86dd)
+*****************************************************************************************************************************************************
 
 # 5. Cấu trúc của WEB frontend
 ![image](https://github.com/hoofkhanh/challenging-project/assets/124868697/330205f9-a264-4c4d-b894-699ce38b7653)
